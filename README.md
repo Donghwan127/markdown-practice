@@ -53,9 +53,7 @@ _이텔릭_
 
 # 이미지
 
-![Heropy](https://heropy.blog/css/images/logo.png)
-
-[![Heropy](https://heropy.blog/css/images/logo.png)](https://www.heropy.blog)
+![Heropy](https://cdn-icons-png.flaticon.com/512/25/25231.png)
 
 # 인용문
 
